@@ -2,7 +2,7 @@
 //
 // Created by: Seti Ngabo
 // Created on: Sept 2021
-// This Program prints 10 random numbers with the smallest number.
+// This program adds all numbers together.
 
 #include <iostream>
 #include <list>
